@@ -11,6 +11,8 @@ List of all github handles of the class of 2024<br>
 ## D
 [Dhruv Somani](https://github.com/dhruvsomani)<br>
 
+[Dhruv Tarsadiya](https://github.com/DrDoofinstein)<br>
+
 ## E
 
 ## F
