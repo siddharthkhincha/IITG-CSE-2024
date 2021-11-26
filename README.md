@@ -37,6 +37,8 @@ List of all github handles of the class of 2024<br>
 
 ## M
 
+[Mansi](https://github.com/AnMaJ)<br>
+
 ## N
 
 ## O
