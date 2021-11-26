@@ -18,8 +18,10 @@ List of all github handles of the class of 2024<br>
 ## F
 
 ## G
+[Ganji Pala Venki Reddy](https://github.com/PalaVenkiReddy)<br>
 
 [Gannoju Manideepak](https://github.com/shield12345)<br>
+
 
 ## H
 
