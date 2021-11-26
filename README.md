@@ -18,7 +18,7 @@ List of all github handles of the class of 2024<br>
 ## F
 
 ## G
-
+[Ganji Pala Venki Reddy](https://github.com/PalaVenkiReddy)<br>
 ## H
 
 [Hridyanshu Kumar](https://github.com/hridyanshuk)<br>
