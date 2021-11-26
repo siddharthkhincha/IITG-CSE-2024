@@ -19,6 +19,8 @@ List of all github handles of the class of 2024<br>
 
 ## G
 
+[Gannoju Manideepak](https://github.com/shield12345)<br>
+
 ## H
 
 [Hridyanshu Kumar](https://github.com/hridyanshuk)<br>
