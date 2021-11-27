@@ -1,4 +1,5 @@
 # IITG-CSE-2024
+
 List of all github handles of the class of 2024<br>
 
 ## A
@@ -30,8 +31,9 @@ List of all github handles of the class of 2024<br>
 
 ## H
 
-[Hridyanshu Kumar](https://github.com/hridyanshuk)<br>
 [Hetang Patel](https://github.com/hetang7802)<br>
+
+[Hridyanshu Kumar](https://github.com/hridyanshuk)<br>
 
 ## I
 
