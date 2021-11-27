@@ -3,12 +3,16 @@ List of all github handles of the class of 2024<br>
 
 ## A
 
+[Akshat Mittal](https://github.com/akshatmittal2002)<br>
+
 ## B
 
 ## C
+
 [Chandrabhushan Reddy](https://github.com/demongod11)<br>
 
 ## D
+
 [Dhruv Somani](https://github.com/dhruvsomani)<br>
 
 [Dhruv Tarsadiya](https://github.com/DrDoofinstein)<br>
@@ -18,6 +22,7 @@ List of all github handles of the class of 2024<br>
 ## F
 
 ## G
+
 [Ganji Pala Venki Reddy](https://github.com/PalaVenkiReddy)<br>
 
 [Gannoju Manideepak](https://github.com/shield12345)<br>
