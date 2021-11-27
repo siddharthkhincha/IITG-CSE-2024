@@ -1,6 +1,10 @@
 # IITG-CSE-2024
 
-List of all github handles of the class of 2024<br>
+<p align="center">
+<img src="./assets/iitg_logo.png" width="100" height="100"/>
+</p>
+
+**List of all GitHub handles of the class of 2024**<br>
 
 ## A
 
@@ -28,6 +32,7 @@ List of all github handles of the class of 2024<br>
 
 [Gannoju Manideepak](https://github.com/shield12345)<br>
 
+[Gunjan Dhanuka](https://github.com/GunjanDhanuka)<br>
 
 ## H
 
