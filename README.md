@@ -7,8 +7,10 @@
 **List of all GitHub handles of the class of 2024**<br>
 
 ## A
+[Aditya Patel](https://github.com/Adi-183)<br>
 
 [Akshat Mittal](https://github.com/akshatmittal2002)<br>
+
 
 ## B
 
