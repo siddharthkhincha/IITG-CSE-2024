@@ -64,6 +64,8 @@
 [Pranjal Singh](https://github.com/pranjal198)<br>
 [Pradeep Kumar](https://github.com/sirus-max)<br>
 
+[Prakhar Pandey](https://github.com/p-prakhar)<br>
+
 ## Q
 
 ## R
@@ -77,8 +79,6 @@
 ## U
 
 ## V
-
-
 
 ## Y
 
