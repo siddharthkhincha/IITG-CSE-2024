@@ -63,6 +63,8 @@
 
 [Pranjal Singh](https://github.com/pranjal198)<br>
 
+[Prakhar Pandey](https://github.com/p-prakhar)<br>
+
 ## Q
 
 ## R
@@ -76,8 +78,6 @@
 ## U
 
 ## V
-
-
 
 ## Y
 
