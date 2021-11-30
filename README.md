@@ -89,6 +89,8 @@
 
 [Kothapalli Kumudhavalli](https://github.com/kk-2603)<br>
 
+[Kalangi Sathvika](https://github.com/kalangisathvika)<br>
+
 ## L
 
 [Lovish Aggarwal](https://github.com/a-lovish)<br>
