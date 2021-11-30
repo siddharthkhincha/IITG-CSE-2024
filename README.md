@@ -94,6 +94,8 @@
 
 ## V
 
+[Vatsal Gupta](https://github.com/vatsal-ts)<br>
+
 ## Y
 
 [Yash Garg](https://github.com/YashGargIND)<br>
