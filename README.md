@@ -7,15 +7,19 @@
 **List of all GitHub handles of the class of 2024**<br>
 
 ## A
+
+[Abhinav Kumar Choudhary](https://github.com/IamAbhi12)<br>
+
 [Aditya Patel](https://github.com/Adi-183)<br>
 
 [Akshat Mittal](https://github.com/akshatmittal2002)<br>
 
-[Arya Phadke](https://github.com/phadkearya)<br> 
-
+[Arya Phadke](https://github.com/phadkearya)<br>
 
 ## B
+
 [BACHALAKURI SAMUEL SUNNY KUMAR](https://github.com/samuel-web2002)<br>
+
 ## C
 
 [Chandrabhushan Reddy](https://github.com/demongod11)<br>
@@ -45,11 +49,13 @@
 [Hridyanshu Kumar](https://github.com/hridyanshuk)<br>
 
 [Hareesh Nandigrama](https://github.com/Hareesh-Nandigrama)<br>
+
 ## I
 
 ## J
 
 ## K
+
 [Kartik Sharma](https://github.com/kaisawesome)<br>
 
 ## L
