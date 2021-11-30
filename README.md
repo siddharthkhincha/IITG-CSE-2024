@@ -77,6 +77,7 @@
 ## M
 [Mukul Lakra](https://github.com/MSD7797)<br>
 [Mansi](https://github.com/AnMaJ)<br>
+[Manideep Reddy](https://github.com/ACItachi)<br>
 
 ## N
 [Naman](https://github.com/Naman-72)<br>
