@@ -74,6 +74,8 @@
 
 ## L
 
+[Lovish Aggarwal](https://github.com/a-lovish)<br>
+
 ## M
 [Mukul Lakra](https://github.com/MSD7797)<br>
 [Mansi](https://github.com/AnMaJ)<br>
