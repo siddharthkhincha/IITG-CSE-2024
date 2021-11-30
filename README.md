@@ -18,6 +18,8 @@
 
 [Arya Phadke](https://github.com/phadkearya)<br>
 
+[Anurag Ravi](https://github.com/Anurag-ravi)<br>
+
 ## B
 
 [BACHALAKURI SAMUEL SUNNY KUMAR](https://github.com/samuel-web2002)<br>
