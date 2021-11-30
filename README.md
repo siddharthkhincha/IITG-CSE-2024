@@ -120,6 +120,8 @@
 
 [Manideep Reddy](https://github.com/ACItachi)<br>
 
+[Mahek Vora](https://github.com/mahekvora21)<br>
+
 ## N
 
 [Naman](https://github.com/Naman-72)<br>
