@@ -76,6 +76,7 @@
 ## S
 
 [Siddharth Khincha](https://github.com/siddharthkhincha)<br>
+[Sweeya Reddy](https://github.com/sweeya2)<br>
 
 ## T
 
