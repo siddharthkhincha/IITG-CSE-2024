@@ -62,7 +62,7 @@
 
 [Harshwardhan Bhakkad](https://github.com/HarshBhakkad)<br>
 
-[Heemanth kilaparthi](https://github.com/heemanth1801)<br>
+[Heemanth kilaparthi](https://github.com/Heemanth1801)<br>
 
 ## I
 
