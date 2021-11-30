@@ -146,11 +146,13 @@
 
 [Siddharth Bansal](https://github.com/Siddharth2Bansal)<br>
 
+[Shashank Singh](https://github.com/masterMiyukine)<br>
+
 [Siddharth Khincha](https://github.com/siddharthkhincha)<br>
 
-[Sweeya Reddy](https://github.com/sweeya2)<br>
+[Sujeet Kamble](https://github.com/sujeetK149)<br>
 
-[Shashank Singh](https://github.com/masterMiyukine)<br>
+[Sweeya Reddy](https://github.com/sweeya2)<br>
 
 ## T
 
