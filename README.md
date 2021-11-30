@@ -31,6 +31,8 @@ List of all github handles of the class of 2024<br>
 
 ## M
 
+[Manan Parihar](https://github.com/manan03)<br>
+
 ## N
 
 ## O
