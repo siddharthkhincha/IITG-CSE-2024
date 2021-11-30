@@ -83,6 +83,7 @@
 [Pradeep Kumar](https://github.com/sirus-max)<br>
 
 [Prakhar Pandey](https://github.com/p-prakhar)<br>
+[Pranjal Baranwal](https://github.com/Pranjal-g083)<br>
 
 ## Q
 
