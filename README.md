@@ -22,6 +22,8 @@
 
 [Anmoldeep Singh](https://github.com/mortal-ghost)<br>
 
+[Arpan Khanna](https://github.com/arpan-khanna)<br>
+
 ## B
 
 [BACHALAKURI SAMUEL SUNNY KUMAR](https://github.com/samuel-web2002)<br>
