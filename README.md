@@ -62,6 +62,8 @@
 
 [Harshwardhan Bhakkad](https://github.com/HarshBhakkad)<br>
 
+[Harshita Kabra](https://github.com/HarshitaKabra)<br>
+
 ## I
 
 ## J
