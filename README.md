@@ -65,6 +65,7 @@
 ## K
 
 [Kartik Sharma](https://github.com/kaisawesome)<br>
+
 [Kothapalli Kumudhavalli](https://github.com/kk-2603)<br>
 
 ## L
@@ -80,9 +81,12 @@
 ## P
 
 [Pranjal Singh](https://github.com/pranjal198)<br>
+
 [Pradeep Kumar](https://github.com/sirus-max)<br>
 
 [Prakhar Pandey](https://github.com/p-prakhar)<br>
+
+[Pranshu Shah](https://github.com/pranshu-45)<br>
 
 ## Q
 
@@ -91,6 +95,7 @@
 ## S
 
 [Siddharth Khincha](https://github.com/siddharthkhincha)<br>
+
 [Sweeya Reddy](https://github.com/sweeya2)<br>
 
 ## T
