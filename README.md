@@ -7,6 +7,7 @@
 **List of all GitHub handles of the class of 2024**<br>
 
 ## A
+[Aadarshraj Sah](https://github.com/Aadarshraj-Sah)<br>
 
 [Abhinav Kumar Choudhary](https://github.com/IamAbhi12)<br>
 
@@ -19,6 +20,8 @@
 [Aman Soni](https://github.com/ssamansoni)<br>
 
 [Akshat Mittal](https://github.com/akshatmittal2002)<br>
+
+[Anindya Vijayvargeeya](https://github.com/Fronsto)<br>
 
 [Anurag Ravi](https://github.com/Anurag-ravi)<br>
 
@@ -38,11 +41,15 @@
 
 [Bachalakuri Samuel Sunny Kumar](https://github.com/samuel-web2002)<br>
 
+[Bokka Srividya](https://github.com/Vidya132)<br>
+
 [Billa Pramodh](https://github.com/PramodhBilla)<br>
 
 [BHANU RAJPUT](https://github.com/r-bhanu)<br>
 
+
 ## C
+[Charishma Abburi](https://github.com/charishma-abburi)<br>
 
 [Chandrabhushan Reddy](https://github.com/demongod11)<br>
 
@@ -108,6 +115,8 @@
 
 ## M
 
+[Manan Parihar](https://github.com/manan03)<br>
+
 [Mukul](https://github.com/mukulgarg10)<br>
 
 [Mukul Lakra](https://github.com/MSD7797)<br>
@@ -118,12 +127,15 @@
 
 [Manideep Reddy](https://github.com/ACItachi)<br>
 
+[Mahek Vora](https://github.com/mahekvora21)<br>
+
 ## N
 
 [Naman](https://github.com/Naman-72)<br>
 
 ## O
 
+[Om Gunjal](https://github.com/omsgunjal2003)<br>
 ## P
 
 [Pranjal Singh](https://github.com/pranjal198)<br>
@@ -139,6 +151,7 @@
 [Pranshu Shah](https://github.com/pranshu-45)<br>
 
 [Pauras Tarle](https://github.com/Pauras022)<br>
+[Pranshu Kandoi](https://github.com/pranshu82)<br>
 
 ## Q
 
@@ -180,3 +193,5 @@
 [Yash Garg](https://github.com/YashGargIND)<br>
 
 [Yenugonda Suma Shree](https://github.com/suma1114)<br>
+
+[Yash Agarwal](https://github.com/yashagarwal3018)<br>
