@@ -14,11 +14,11 @@
 
 [Aditya Patidar](https://github.com/Adii45)<br>
 
+[Agney S Talwarr](https://github.com/agneytalwar)<br>
+
 [Aman Soni](https://github.com/ssamansoni)<br>
 
 [Akshat Mittal](https://github.com/akshatmittal2002)<br>
-
-[Arya Phadke](https://github.com/phadkearya)<br>
 
 [Anurag Ravi](https://github.com/Anurag-ravi)<br>
 
@@ -27,6 +27,8 @@
 [Arpan Khanna](https://github.com/arpan-khanna)<br>
 
 [Arthi Sai Akshith](https://github.com/saiakshitharthi)<br>
+
+[Arya Phadke](https://github.com/phadkearya)<br>
 
 [Ayan Gautam](https://github.com/Ayan-G)<br>
 
