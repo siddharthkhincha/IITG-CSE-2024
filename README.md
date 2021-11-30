@@ -101,6 +101,8 @@
 
 ## S
 
+[Siddharth Bansal](https://github.com/Siddharth2Bansal)<br>
+
 [Siddharth Khincha](https://github.com/siddharthkhincha)<br>
 
 [Sweeya Reddy](https://github.com/sweeya2)<br>
