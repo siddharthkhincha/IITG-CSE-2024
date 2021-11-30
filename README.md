@@ -20,6 +20,8 @@
 
 [Akshat Mittal](https://github.com/akshatmittal2002)<br>
 
+[Anindya Vijayvargeeya](https://github.com/Fronsto)<br>
+
 [Anurag Ravi](https://github.com/Anurag-ravi)<br>
 
 [Anmoldeep Singh](https://github.com/mortal-ghost)<br>
