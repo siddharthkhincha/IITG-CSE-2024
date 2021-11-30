@@ -30,6 +30,8 @@
 
 [BACHALAKURI SAMUEL SUNNY KUMAR](https://github.com/samuel-web2002)<br>
 
+[BHANU RAJPUT](https://github.com/r-bhanu)<br>
+
 ## C
 
 [Chandrabhushan Reddy](https://github.com/demongod11)<br>
