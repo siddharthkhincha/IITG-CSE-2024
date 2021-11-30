@@ -40,6 +40,8 @@
 
 [Billa Pramodh](https://github.com/PramodhBilla)<br>
 
+[BHANU RAJPUT](https://github.com/r-bhanu)<br>
+
 ## C
 
 [Chandrabhushan Reddy](https://github.com/demongod11)<br>
