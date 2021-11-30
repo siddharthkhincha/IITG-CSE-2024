@@ -12,6 +12,8 @@
 
 [Aditya Patel](https://github.com/Adi-183)<br>
 
+[Aditya Patidar](https://github.com/Adii45)<br>
+
 [Aman Soni](https://github.com/ssamansoni)<br>
 
 [Akshat Mittal](https://github.com/akshatmittal2002)<br>
