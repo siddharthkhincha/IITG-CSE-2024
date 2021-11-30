@@ -69,7 +69,7 @@
 ## K
 
 [Kartik Sharma](https://github.com/kaisawesome)<br>
-
+[Kanchumarthi H Pravallika](https://github.com/khpravallika)<br>
 [Kothapalli Kumudhavalli](https://github.com/kk-2603)<br>
 
 ## L
