@@ -7,6 +7,7 @@
 **List of all GitHub handles of the class of 2024**<br>
 
 ## A
+[Aadarshraj Sah](https://github.com/Aadarshraj-Sah)<br>
 
 [Abhinav Kumar Choudhary](https://github.com/IamAbhi12)<br>
 
