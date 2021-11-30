@@ -112,6 +112,7 @@
 ## V
 
 [Vatsal Gupta](https://github.com/vatsal-ts)<br>
+[Vikas](https://github.com/seneg0id)<br>
 [Vishal Bulchandani](https://github.com/vi-bulchandani)<br>
 
 ## Y
