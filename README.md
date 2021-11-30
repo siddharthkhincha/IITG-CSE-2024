@@ -129,9 +129,12 @@
 
 [Vatsal Gupta](https://github.com/vatsal-ts)<br>
 
+[Vikas](https://github.com/seneg0id)<br>
+
 [Vishal Bulchandani](https://github.com/vi-bulchandani)<br>
 
 ## Y
 
 [Yash Garg](https://github.com/YashGargIND)<br>
+
 [Yenugonda Suma Shree](https://github.com/suma1114)<br>
