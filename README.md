@@ -79,6 +79,7 @@
 ## J
 
 ## K
+[Kartik Malasiya](https://github.com/kartikmalasiya)<br>
 
 [Kartik Sharma](https://github.com/kaisawesome)<br>
 
