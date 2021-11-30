@@ -105,6 +105,8 @@
 
 [Sweeya Reddy](https://github.com/sweeya2)<br>
 
+[Shashank Singh](https://github.com/masterMiyukine)<br>
+
 ## T
 
 ## U
