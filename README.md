@@ -28,6 +28,8 @@
 
 [Arthi Sai Akshith](https://github.com/saiakshitharthi)<br>
 
+[Ayan Gautam](https://github.com/Ayan-G)<br>
+
 ## B
 
 [Bhoomiraj Patel](https://github.com/Bhoomiraj2002)<br>
@@ -79,6 +81,7 @@
 ## J
 
 ## K
+
 [Kartik Malasiya](https://github.com/kartikmalasiya)<br>
 
 [Kartik Sharma](https://github.com/kaisawesome)<br>
@@ -96,13 +99,17 @@
 [Lovish Aggarwal](https://github.com/a-lovish)<br>
 
 ## M
+
 [Mukul Lakra](https://github.com/MSD7797)<br>
 
 [Mansi](https://github.com/AnMaJ)<br>
+
 [Manideep Reddy](https://github.com/ACItachi)<br>
 
 ## N
+
 [Naman](https://github.com/Naman-72)<br>
+
 ## O
 
 ## P
@@ -138,6 +145,7 @@
 ## V
 
 [Vasireddi Mohith Sai](https://github.com/mohithluffy)<br>
+
 [Vatsal Gupta](https://github.com/vatsal-ts)<br>
 
 [Vikas](https://github.com/seneg0id)<br>
