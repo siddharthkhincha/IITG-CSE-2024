@@ -93,6 +93,8 @@
 
 [Pranshu Shah](https://github.com/pranshu-45)<br>
 
+[Pauras Tarle](https://github.com/Pauras022)<br>
+
 ## Q
 
 ## R
