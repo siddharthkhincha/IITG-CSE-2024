@@ -9,6 +9,8 @@
 ## A
 [Aditya Patel](https://github.com/Adi-183)<br>
 
+[Aman Soni](https://github.com/ssamansoni)<br>
+
 [Akshat Mittal](https://github.com/akshatmittal2002)<br>
 
 [Arya Phadke](https://github.com/phadkearya)<br> 
