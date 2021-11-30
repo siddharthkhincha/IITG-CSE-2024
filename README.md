@@ -70,6 +70,8 @@
 
 [Kartik Sharma](https://github.com/kaisawesome)<br>
 
+[Karri Sai Vamshi](https://github.com/SaiVamshi11)<br>
+
 [Kothapalli Kumudhavalli](https://github.com/kk-2603)<br>
 
 ## L
