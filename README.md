@@ -20,6 +20,8 @@
 
 [Anurag Ravi](https://github.com/Anurag-ravi)<br>
 
+[Anmoldeep Singh](https://github.com/mortal-ghost)<br>
+
 ## B
 
 [BACHALAKURI SAMUEL SUNNY KUMAR](https://github.com/samuel-web2002)<br>
