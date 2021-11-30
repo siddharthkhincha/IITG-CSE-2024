@@ -11,7 +11,7 @@
 
 [Akshat Mittal](https://github.com/akshatmittal2002)<br>
 
-[Arya Phadke] (https://github.com/phadkearya)<br> 
+[Arya Phadke](https://github.com/phadkearya)<br> 
 
 
 ## B
