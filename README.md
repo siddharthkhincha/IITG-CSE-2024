@@ -18,6 +18,8 @@
 
 [Akshat Mittal](https://github.com/akshatmittal2002)<br>
 
+[Anindya Vijayvargeeya](https://github.com/Fronsto)<br>
+
 [Arya Phadke](https://github.com/phadkearya)<br>
 
 [Anurag Ravi](https://github.com/Anurag-ravi)<br>
