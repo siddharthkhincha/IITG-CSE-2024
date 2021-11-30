@@ -24,6 +24,8 @@
 
 [Arpan Khanna](https://github.com/arpan-khanna)<br>
 
+[Arthi Sai Akshith](https://github.com/saiakshitharthi)<br>
+
 ## B
 
 [Bhoomiraj Patel](https://github.com/Bhoomiraj2002)<br>
