@@ -11,6 +11,8 @@
 
 [Akshat Mittal](https://github.com/akshatmittal2002)<br>
 
+[Arya Phadke] (https://github.com/phadkearya)<br> 
+
 
 ## B
 [BACHALAKURI SAMUEL SUNNY KUMAR](https://github.com/samuel-web2002)<br>
