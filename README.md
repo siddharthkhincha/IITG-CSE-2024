@@ -127,6 +127,7 @@
 
 [Pranjal Baranwal](https://github.com/Pranjal-g083)<br>
 
+[Pranshu Pandya](https://github.com/PranshuPandya)<br>
 [Pranshu Shah](https://github.com/pranshu-45)<br>
 
 [Pauras Tarle](https://github.com/Pauras022)<br>
