@@ -24,6 +24,8 @@
 
 ## B
 
+[Bhoomiraj Patel](https://github.com/Bhoomiraj2002)<br>
+
 [BACHALAKURI SAMUEL SUNNY KUMAR](https://github.com/samuel-web2002)<br>
 
 ## C
