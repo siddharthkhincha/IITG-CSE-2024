@@ -111,6 +111,8 @@
 
 [Kalangi Sathvika](https://github.com/kalangisathvika)<br>
 
+[Kirti Bansode](https://github.com/KirtiBansode)<br>
+
 ## L
 
 [Lovish Aggarwal](https://github.com/a-lovish)<br>
