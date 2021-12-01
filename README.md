@@ -180,6 +180,8 @@
 
 [Vatsal Gupta](https://github.com/vatsal-ts)<br>
 
+[Vedant Shah](https://github.com/waydant)<br>
+
 [Vikas](https://github.com/seneg0id)<br>
 
 [Viraj Goyanka](https://github.com/viraj0704)<br>
