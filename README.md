@@ -159,6 +159,7 @@
 ## Q
 
 ## R
+[Rohit Ghongade](https://github.com/RKG111)<br>
 
 ## S
 
