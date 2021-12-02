@@ -159,6 +159,7 @@
 ## Q
 
 ## R
+[Ravi kumar](https://github.com/ravi9694)<br>
 
 ## S
 
