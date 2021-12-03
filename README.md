@@ -7,6 +7,9 @@
 **List of all GitHub handles of the class of 2024**<br>
 
 ## A
+
+[Aadi Aarya Chandra](https://github.com/159aadi314)<br>
+
 [Aadarshraj Sah](https://github.com/Aadarshraj-Sah)<br>
 
 [Abhinav Kumar Choudhary](https://github.com/IamAbhi12)<br>
@@ -139,7 +142,7 @@
 
 [Om Gunjal](https://github.com/omsgunjal2003)<br>
 ## P
-
+[Pankaj Yadav](https://github.com/Just-Pankaj)<br>
 [Pranjal Singh](https://github.com/pranjal198)<br>
 
 [Pradeep Kumar](https://github.com/sirus-max)<br>
@@ -159,7 +162,11 @@
 ## Q
 
 ## R
+<<<<<<< HEAD
 [Rohit Ghongade](https://github.com/RKG111)<br>
+=======
+[Ravi kumar](https://github.com/ravi9694)<br>
+>>>>>>> 9d03faa5498569c137c8a277501ddc630e25ee8a
 
 ## S
 
@@ -178,6 +185,8 @@
 ## U
 
 ## V
+
+[Vanshita](https://github.com/vanshita2504)<br>
 
 [Vasireddi Mohith Sai](https://github.com/mohithluffy)<br>
 
