@@ -164,11 +164,10 @@
 ## Q
 
 ## R
-<<<<<<< HEAD
+
 [Rohit Ghongade](https://github.com/RKG111)<br>
-=======
+
 [Ravi kumar](https://github.com/ravi9694)<br>
->>>>>>> 9d03faa5498569c137c8a277501ddc630e25ee8a
 
 ## S
 
