@@ -40,6 +40,8 @@
 
 [Ayan Gautam](https://github.com/Ayan-G)<br>
 
+[Ashish Paide](https://github.com/ashish-paide)<br>
+
 ## B
 
 [Bhoomiraj Patel](https://github.com/Bhoomiraj2002)<br>
