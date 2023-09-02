@@ -24,6 +24,8 @@
 
 [Akshat Mittal](https://github.com/akshatmittal2002)<br>
 
+[Aman Raj](https://github.com/amanraj-iit)<br>
+
 [Anindya Vijayvargeeya](https://github.com/Fronsto)<br>
 
 [Ashwitha Banoth](https://github.com/Ashwitha66)<br> 
